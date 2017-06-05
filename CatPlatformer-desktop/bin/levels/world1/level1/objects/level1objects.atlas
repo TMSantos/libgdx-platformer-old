@@ -1,0 +1,145 @@
+
+level1objects.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+water1
+  rotate: false
+  xy: 1, 687
+  size: 1551, 268
+  orig: 1551, 268
+  offset: 0, 0
+  index: -1
+water2
+  rotate: false
+  xy: 1, 421
+  size: 1523, 264
+  orig: 1523, 264
+  offset: 0, 0
+  index: -1
+browndog1
+  rotate: false
+  xy: 1554, 817
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+browndog2
+  rotate: false
+  xy: 1, 281
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+browndog3
+  rotate: false
+  xy: 1697, 817
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+browndog4
+  rotate: false
+  xy: 1, 141
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+browndog5
+  rotate: false
+  xy: 144, 281
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+reddog1
+  rotate: false
+  xy: 1840, 817
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+reddog2
+  rotate: false
+  xy: 1, 1
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+reddog3
+  rotate: false
+  xy: 144, 141
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+reddog4
+  rotate: false
+  xy: 287, 281
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+reddog5
+  rotate: false
+  xy: 144, 1
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+reddog6
+  rotate: false
+  xy: 287, 141
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+reddog7
+  rotate: false
+  xy: 430, 281
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+whitedog1
+  rotate: false
+  xy: 287, 1
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+whitedog2
+  rotate: false
+  xy: 430, 141
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+whitedog3
+  rotate: false
+  xy: 573, 281
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+whitedog4
+  rotate: false
+  xy: 430, 1
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+whitedog5
+  rotate: false
+  xy: 573, 141
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+bone
+  rotate: false
+  xy: 1554, 763
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1

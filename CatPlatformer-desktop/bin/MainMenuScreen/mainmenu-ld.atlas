@@ -1,0 +1,75 @@
+
+mainmenu-ld.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 1, 345
+  size: 802, 601
+  orig: 802, 601
+  offset: 0, 0
+  index: -1
+Bola
+  rotate: false
+  xy: 1, 1
+  size: 459, 342
+  orig: 459, 342
+  offset: 0, 0
+  index: -1
+aboutclick
+  rotate: false
+  xy: 805, 827
+  size: 405, 119
+  orig: 405, 119
+  offset: 0, 0
+  index: -1
+optionsclick
+  rotate: false
+  xy: 805, 706
+  size: 405, 119
+  orig: 405, 119
+  offset: 0, 0
+  index: -1
+playclick
+  rotate: false
+  xy: 1212, 827
+  size: 405, 119
+  orig: 405, 119
+  offset: 0, 0
+  index: -1
+Options
+  rotate: false
+  xy: 805, 598
+  size: 387, 106
+  orig: 387, 106
+  offset: 0, 0
+  index: -1
+About
+  rotate: false
+  xy: 1212, 722
+  size: 383, 103
+  orig: 383, 103
+  offset: 0, 0
+  index: -1
+Play
+  rotate: false
+  xy: 1619, 842
+  size: 382, 104
+  orig: 382, 104
+  offset: 0, 0
+  index: -1
+Exit
+  rotate: false
+  xy: 462, 264
+  size: 125, 79
+  orig: 125, 79
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 805, 516
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1

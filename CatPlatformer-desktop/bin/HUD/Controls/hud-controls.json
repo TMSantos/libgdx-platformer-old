@@ -1,0 +1,13 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	fish: { down: fish, up: fish },
+	left: { down: left, up: left },
+	right: { down: right, up: right },
+	up: { down: up, up: up },
+	claw: { down: claw, up: claw }
+	},
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	fishsky-fhd: { drawable: fishsky-fhd },
+	fishsky-hd: { drawable: fishsky-hd }
+},
+}

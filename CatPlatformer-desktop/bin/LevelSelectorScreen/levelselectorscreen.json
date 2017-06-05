@@ -1,0 +1,13 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	level1: { down: level1click, up: level1 },
+	level2: { down: level2click, up: level2 },
+	level3: { down: level3click, up: level3 },
+	level4: { down: level4click, up: level4 },
+	levellock: { down: levellock, up: levellock },
+	Arrow: { down: Arrow, up: Arrow}
+},
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	levelSelectorBackground: { drawable: levelSelectorBackground }
+},
+}

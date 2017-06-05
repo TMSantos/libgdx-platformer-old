@@ -1,0 +1,12 @@
+
+pausemenu-ld.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+minimenu
+  rotate: false
+  xy: 1, 1
+  size: 329, 276
+  orig: 329, 276
+  offset: 0, 0
+  index: -1

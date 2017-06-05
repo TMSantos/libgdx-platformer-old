@@ -1,0 +1,10 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	deadMenuHouse: { down: deadMenuHouse, up: deadMenuHouse },
+	deadMenuRestart: { down: deadMenuRestart, up: deadMenuRestart }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	deadMenu: { drawable: deadMenu }
+
+},
+}

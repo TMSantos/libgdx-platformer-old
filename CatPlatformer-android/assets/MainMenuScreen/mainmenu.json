@@ -1,0 +1,14 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	Play: { down: playclick, up: Play },
+	Options: { down: optionsclick, up: Options },
+	About: { down: aboutclick, up: About },
+	Face: { down: Face, up: Face },
+	Exit: { down: Exit, up: Exit }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	Background: { drawable: Background },
+	Bola: {drawable: Bola }
+
+},
+}

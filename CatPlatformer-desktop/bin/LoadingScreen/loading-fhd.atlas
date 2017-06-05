@@ -1,0 +1,26 @@
+
+loading-fhd.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+load1
+  rotate: false
+  xy: 1, 47
+  size: 135, 21
+  orig: 135, 21
+  offset: 0, 0
+  index: -1
+load2
+  rotate: false
+  xy: 1, 24
+  size: 135, 21
+  orig: 135, 21
+  offset: 0, 0
+  index: -1
+load3
+  rotate: false
+  xy: 1, 1
+  size: 135, 21
+  orig: 135, 21
+  offset: 0, 0
+  index: -1

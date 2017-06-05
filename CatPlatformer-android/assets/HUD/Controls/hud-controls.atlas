@@ -1,0 +1,54 @@
+
+hud-controls.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw
+  rotate: false
+  xy: 1, 239
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1, 1
+  size: 200, 236
+  orig: 200, 236
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 253, 260
+  size: 200, 229
+  orig: 200, 229
+  offset: 0, 0
+  index: -1
+fish
+  rotate: false
+  xy: 455, 262
+  size: 200, 227
+  orig: 200, 227
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 657, 311
+  size: 200, 178
+  orig: 200, 178
+  offset: 0, 0
+  index: -1
+fishsky-fhd
+  rotate: false
+  xy: 859, 389
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+fishsky-hd
+  rotate: false
+  xy: 859, 314
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1

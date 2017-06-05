@@ -1,0 +1,54 @@
+
+soundmenu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MiniMenuSound
+  rotate: false
+  xy: 1, 56
+  size: 660, 423
+  orig: 660, 423
+  offset: 0, 0
+  index: -1
+stick
+  rotate: false
+  xy: 1, 1
+  size: 303, 53
+  orig: 303, 53
+  offset: 0, 0
+  index: -1
+music
+  rotate: false
+  xy: 663, 374
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 663, 267
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 768, 382
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+soundoff
+  rotate: false
+  xy: 663, 168
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+SelectorSound
+  rotate: false
+  xy: 768, 293
+  size: 57, 87
+  orig: 57, 87
+  offset: 0, 0
+  index: -1

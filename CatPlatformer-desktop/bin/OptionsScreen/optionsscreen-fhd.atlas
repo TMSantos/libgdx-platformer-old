@@ -1,0 +1,75 @@
+
+optionsscreen-fhd.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+optionsbackground
+  rotate: false
+  xy: 1, 377
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+stick
+  rotate: false
+  xy: 1, 322
+  size: 303, 53
+  orig: 303, 53
+  offset: 0, 0
+  index: -1
+backbutton
+  rotate: false
+  xy: 1, 207
+  size: 227, 113
+  orig: 227, 113
+  offset: 0, 0
+  index: -1
+music
+  rotate: false
+  xy: 1923, 1352
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 1, 100
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 1923, 1253
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+soundoff
+  rotate: false
+  xy: 1, 1
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+SelectorSound
+  rotate: false
+  xy: 230, 233
+  size: 57, 87
+  orig: 57, 87
+  offset: 0, 0
+  index: -1
+checkno
+  rotate: false
+  xy: 106, 144
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+checkyes
+  rotate: false
+  xy: 1923, 1190
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,75 @@
+
+mainmenu-md.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 1, 295
+  size: 1279, 720
+  orig: 1279, 720
+  offset: 0, 0
+  index: -1
+Bola
+  rotate: false
+  xy: 1282, 693
+  size: 431, 322
+  orig: 431, 322
+  offset: 0, 0
+  index: -1
+Options
+  rotate: false
+  xy: 1, 193
+  size: 364, 100
+  orig: 364, 100
+  offset: 0, 0
+  index: -1
+Play
+  rotate: false
+  xy: 1282, 593
+  size: 359, 98
+  orig: 359, 98
+  offset: 0, 0
+  index: -1
+About
+  rotate: false
+  xy: 1, 95
+  size: 360, 96
+  orig: 360, 96
+  offset: 0, 0
+  index: -1
+optionsclick
+  rotate: false
+  xy: 367, 198
+  size: 352, 95
+  orig: 352, 95
+  offset: 0, 0
+  index: -1
+aboutclick
+  rotate: false
+  xy: 1282, 497
+  size: 348, 94
+  orig: 348, 94
+  offset: 0, 0
+  index: -1
+playclick
+  rotate: false
+  xy: 1, 1
+  size: 348, 92
+  orig: 348, 92
+  offset: 0, 0
+  index: -1
+Exit
+  rotate: false
+  xy: 1715, 902
+  size: 179, 113
+  orig: 179, 113
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 1282, 390
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1

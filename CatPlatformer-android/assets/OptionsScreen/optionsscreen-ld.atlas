@@ -1,0 +1,75 @@
+
+optionsscreen-ld.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+optionsbackground
+  rotate: false
+  xy: 1, 223
+  size: 802, 601
+  orig: 802, 601
+  offset: 0, 0
+  index: -1
+backbutton
+  rotate: false
+  xy: 1, 108
+  size: 227, 113
+  orig: 227, 113
+  offset: 0, 0
+  index: -1
+stick
+  rotate: false
+  xy: 805, 794
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+music
+  rotate: false
+  xy: 1, 47
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 230, 163
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+soundoff
+  rotate: false
+  xy: 805, 739
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+checkno
+  rotate: false
+  xy: 1, 1
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+checkyes
+  rotate: false
+  xy: 60, 62
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 230, 108
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+SelectorSound
+  rotate: false
+  xy: 289, 172
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1

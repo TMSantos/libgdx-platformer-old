@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Develop tools/Libraries/libgdx-nightly-latest/sources"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/CatPlatformer"/>
+	<classpathentry exported="true" kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Develop tools/Libraries/libgdx-nightly-latest/gdx.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Develop tools/Libraries/libgdx-nightly-latest/gdx-backend-gwt.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Develop tools/Libraries/libgdx-nightly-latest/sources/gdx-backend-gwt-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Develop tools/Libraries/libgdx-nightly-latest/sources/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Develop tools/Libraries/libgdx-nightly-latest/sources/gdx-backend-android-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Develop tools/Libraries/libgdx-nightly-latest/gdx-backend-android.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

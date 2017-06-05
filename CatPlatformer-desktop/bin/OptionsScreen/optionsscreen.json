@@ -1,0 +1,26 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: { default-font: { file: kittenrush.fnt } },
+com.badlogic.gdx.graphics.Color: {
+	green: { a: 1, b: 0, g: 1, r: 0 },
+	white: { a: 1, b: 1, g: 1, r: 1 },
+	red: { a: 1, b: 0, g: 0, r: 1 },
+	black: { a: 1, b: 0, g: 0, r: 0 }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	sound: { down: sound, up: sound },
+	music: { down: music, up: music },
+	soundoff: { down: soundoff, up: soundoff },
+	musicOff: { down: musicOff, up: musicOff },
+	backbutton: { down: backbutton, up: backbutton }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	optionsbackground: { drawable: optionsbackground }
+
+},
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-horizontal: { background: stick, knob: SelectorSound }
+},
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+	default: { checkboxOn: checkyes, checkboxOff: checkno,font: default-font, fontColor: white}
+},
+}

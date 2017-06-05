@@ -1,0 +1,16 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	sound: { down: sound, up: sound },
+	music: { down: music, up: music },
+	soundoff: { down: soundoff, up: soundoff },
+	musicOff: { down: musicOff, up: musicOff },
+	SelectorSound: { down: SelectorSound, up: SelectorSound }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	MiniMenuSound: { drawable: MiniMenuSound }
+
+},
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-horizontal: { background: stick, knob: SelectorSound }
+},
+}

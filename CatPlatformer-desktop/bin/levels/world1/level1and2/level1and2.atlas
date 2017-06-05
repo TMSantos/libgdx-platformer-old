@@ -1,0 +1,117 @@
+
+level1and2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EnemyCat1
+  rotate: false
+  xy: 1, 513
+  size: 274, 510
+  orig: 274, 510
+  offset: 0, 0
+  index: -1
+EnemyCat10
+  rotate: false
+  xy: 1, 1
+  size: 274, 510
+  orig: 274, 510
+  offset: 0, 0
+  index: -1
+EnemyCat11
+  rotate: false
+  xy: 277, 513
+  size: 274, 510
+  orig: 274, 510
+  offset: 0, 0
+  index: -1
+EnemyCat2
+  rotate: false
+  xy: 277, 1
+  size: 274, 510
+  orig: 274, 510
+  offset: 0, 0
+  index: -1
+EnemyCat3
+  rotate: false
+  xy: 553, 513
+  size: 274, 510
+  orig: 274, 510
+  offset: 0, 0
+  index: -1
+EnemyCat4
+  rotate: false
+  xy: 553, 1
+  size: 274, 510
+  orig: 274, 510
+  offset: 0, 0
+  index: -1
+EnemyCat5
+  rotate: false
+  xy: 829, 513
+  size: 274, 510
+  orig: 274, 510
+  offset: 0, 0
+  index: -1
+EnemyCat6
+  rotate: false
+  xy: 829, 1
+  size: 274, 510
+  orig: 274, 510
+  offset: 0, 0
+  index: -1
+EnemyCat7
+  rotate: false
+  xy: 1105, 513
+  size: 274, 510
+  orig: 274, 510
+  offset: 0, 0
+  index: -1
+EnemyCat8
+  rotate: false
+  xy: 1105, 1
+  size: 274, 510
+  orig: 274, 510
+  offset: 0, 0
+  index: -1
+EnemyCat9
+  rotate: false
+  xy: 1381, 513
+  size: 274, 510
+  orig: 274, 510
+  offset: 0, 0
+  index: -1
+FallingPlatform1
+  rotate: false
+  xy: 1657, 909
+  size: 328, 114
+  orig: 328, 114
+  offset: 0, 0
+  index: -1
+FallingPlatform4
+  rotate: false
+  xy: 1657, 806
+  size: 303, 101
+  orig: 303, 101
+  offset: 0, 0
+  index: -1
+FallingPlatform2
+  rotate: false
+  xy: 1381, 401
+  size: 263, 110
+  orig: 263, 110
+  offset: 0, 0
+  index: -1
+FallingPlatform3
+  rotate: false
+  xy: 1657, 696
+  size: 250, 108
+  orig: 250, 108
+  offset: 0, 0
+  index: -1
+MeanFish
+  rotate: false
+  xy: 1987, 988
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1

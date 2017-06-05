@@ -1,0 +1,124 @@
+
+levelCommom.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diamond1
+  rotate: false
+  xy: 1, 1387
+  size: 656, 654
+  orig: 656, 654
+  offset: 0, 0
+  index: -1
+diamond2
+  rotate: false
+  xy: 1, 731
+  size: 656, 654
+  orig: 656, 654
+  offset: 0, 0
+  index: -1
+diamond3
+  rotate: false
+  xy: 659, 1387
+  size: 656, 654
+  orig: 656, 654
+  offset: 0, 0
+  index: -1
+RedDiamond1
+  rotate: false
+  xy: 1, 75
+  size: 656, 654
+  orig: 656, 654
+  offset: 0, 0
+  index: -1
+RedDiamond2
+  rotate: false
+  xy: 659, 731
+  size: 656, 654
+  orig: 656, 654
+  offset: 0, 0
+  index: -1
+RedDiamond3
+  rotate: false
+  xy: 1317, 1387
+  size: 656, 654
+  orig: 656, 654
+  offset: 0, 0
+  index: -1
+bird1
+  rotate: false
+  xy: 659, 390
+  size: 403, 339
+  orig: 403, 339
+  offset: 0, 0
+  index: -1
+bird2
+  rotate: false
+  xy: 1317, 1046
+  size: 403, 339
+  orig: 403, 339
+  offset: 0, 0
+  index: -1
+bird3
+  rotate: false
+  xy: 659, 49
+  size: 403, 339
+  orig: 403, 339
+  offset: 0, 0
+  index: -1
+bird4
+  rotate: false
+  xy: 1317, 705
+  size: 403, 339
+  orig: 403, 339
+  offset: 0, 0
+  index: -1
+bird5
+  rotate: false
+  xy: 1064, 364
+  size: 403, 339
+  orig: 403, 339
+  offset: 0, 0
+  index: -1
+bird6
+  rotate: false
+  xy: 1064, 23
+  size: 403, 339
+  orig: 403, 339
+  offset: 0, 0
+  index: -1
+bird7
+  rotate: false
+  xy: 1469, 364
+  size: 403, 339
+  orig: 403, 339
+  offset: 0, 0
+  index: -1
+fishsky
+  rotate: false
+  xy: 1722, 1285
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+PuzzlePiece
+  rotate: false
+  xy: 1, 1
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+bulletFish
+  rotate: false
+  xy: 1469, 313
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+collectFish
+  rotate: false
+  xy: 1975, 1967
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1

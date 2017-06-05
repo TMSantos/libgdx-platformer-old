@@ -1,0 +1,26 @@
+
+deadmenu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deadMenu
+  rotate: false
+  xy: 1, 138
+  size: 522, 324
+  orig: 522, 324
+  offset: 0, 0
+  index: -1
+deadMenuHouse
+  rotate: false
+  xy: 1, 1
+  size: 139, 135
+  orig: 139, 135
+  offset: 0, 0
+  index: -1
+deadMenuRestart
+  rotate: false
+  xy: 525, 339
+  size: 116, 123
+  orig: 116, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	world1: {down: world1click, up: world1},
+	world2: {down: world2click, up: world2},
+	world3: {down: world3click, up: world3},
+	world4: {down: world4click, up: world4},
+	Arrow: {down: Arrow, up: Arrow},
+	worldlock: {down: worldlock, up: worldlock}
+},
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	WorldSelectorScreenBackground: { drawable: WorldSelectorScreenBackground }
+},
+}

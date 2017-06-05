@@ -1,0 +1,250 @@
+
+waypoints.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+endWaypoint1
+  rotate: false
+  xy: 1, 1753
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint10
+  rotate: false
+  xy: 1, 1534
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint11
+  rotate: false
+  xy: 387, 1753
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint12
+  rotate: false
+  xy: 1, 1315
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint13
+  rotate: false
+  xy: 387, 1534
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint14
+  rotate: false
+  xy: 773, 1753
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint15
+  rotate: false
+  xy: 1, 1096
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint16
+  rotate: false
+  xy: 387, 1315
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint17
+  rotate: false
+  xy: 773, 1534
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint18
+  rotate: false
+  xy: 1159, 1753
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint19
+  rotate: false
+  xy: 1, 877
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint2
+  rotate: false
+  xy: 387, 1096
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint20
+  rotate: false
+  xy: 773, 1315
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint21
+  rotate: false
+  xy: 1159, 1534
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint22
+  rotate: false
+  xy: 1545, 1753
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint23
+  rotate: false
+  xy: 1, 658
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint24
+  rotate: false
+  xy: 387, 877
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint3
+  rotate: false
+  xy: 773, 1096
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint4
+  rotate: false
+  xy: 1159, 1315
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint5
+  rotate: false
+  xy: 1545, 1534
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint6
+  rotate: false
+  xy: 1, 439
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint7
+  rotate: false
+  xy: 387, 658
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint8
+  rotate: false
+  xy: 773, 877
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+endWaypoint9
+  rotate: false
+  xy: 1159, 1096
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+waypoint1-1
+  rotate: false
+  xy: 1545, 1315
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+waypoint1-2
+  rotate: false
+  xy: 1, 220
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+waypoint1-3
+  rotate: false
+  xy: 387, 439
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+waypoint1-4
+  rotate: false
+  xy: 773, 658
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+waypoint2-1
+  rotate: false
+  xy: 1159, 877
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+waypoint2-2
+  rotate: false
+  xy: 1545, 1096
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+waypoint2-3
+  rotate: false
+  xy: 1, 1
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+waypoint3-1
+  rotate: false
+  xy: 387, 220
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+waypoint3-2
+  rotate: false
+  xy: 773, 439
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+waypoint4-1
+  rotate: false
+  xy: 1159, 658
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1
+waypoint4-2
+  rotate: false
+  xy: 1545, 877
+  size: 384, 217
+  orig: 384, 217
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,89 @@
+
+catmale.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 1, 331
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+claw1
+  rotate: false
+  xy: 1, 221
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+claw2
+  rotate: false
+  xy: 209, 331
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+claw3
+  rotate: false
+  xy: 1, 111
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+claw4
+  rotate: false
+  xy: 209, 221
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+dead1
+  rotate: false
+  xy: 417, 331
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+dead2
+  rotate: false
+  xy: 1, 1
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 209, 111
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+stand1
+  rotate: false
+  xy: 417, 221
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+stand2
+  rotate: false
+  xy: 625, 331
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+walk1
+  rotate: false
+  xy: 209, 1
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+walk2
+  rotate: false
+  xy: 417, 111
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,96 @@
+
+levelselectorscreen-fhd.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+levelSelectorBackground
+  rotate: false
+  xy: 1, 892
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+level3click
+  rotate: false
+  xy: 1, 713
+  size: 228, 177
+  orig: 228, 177
+  offset: 0, 0
+  index: -1
+level1click
+  rotate: false
+  xy: 1, 535
+  size: 228, 176
+  orig: 228, 176
+  offset: 0, 0
+  index: -1
+level2click
+  rotate: false
+  xy: 231, 714
+  size: 228, 176
+  orig: 228, 176
+  offset: 0, 0
+  index: -1
+level4click
+  rotate: false
+  xy: 1, 357
+  size: 228, 176
+  orig: 228, 176
+  offset: 0, 0
+  index: -1
+level5click
+  rotate: false
+  xy: 231, 536
+  size: 228, 176
+  orig: 228, 176
+  offset: 0, 0
+  index: -1
+level1
+  rotate: false
+  xy: 461, 714
+  size: 227, 176
+  orig: 227, 176
+  offset: 0, 0
+  index: -1
+level2
+  rotate: false
+  xy: 1, 179
+  size: 227, 176
+  orig: 227, 176
+  offset: 0, 0
+  index: -1
+level3
+  rotate: false
+  xy: 231, 358
+  size: 227, 176
+  orig: 227, 176
+  offset: 0, 0
+  index: -1
+level4
+  rotate: false
+  xy: 461, 536
+  size: 227, 176
+  orig: 227, 176
+  offset: 0, 0
+  index: -1
+level5
+  rotate: false
+  xy: 690, 714
+  size: 227, 176
+  orig: 227, 176
+  offset: 0, 0
+  index: -1
+levellock
+  rotate: false
+  xy: 1, 1
+  size: 227, 176
+  orig: 227, 176
+  offset: 0, 0
+  index: -1
+Arrow
+  rotate: false
+  xy: 460, 421
+  size: 227, 113
+  orig: 227, 113
+  offset: 0, 0
+  index: -1
